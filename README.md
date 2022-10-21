@@ -14,7 +14,7 @@
 <h1></h1>
 
 <h3 align="left">2] Advanced Password Generator</h3>
-<p>Generates passwords by giving user freedom to choose each and every character type making stronger passwords. User can later save it in a passowrds.txt file they want to access them later.</p>
+<p>Generates passwords by giving user freedom to choose each and every character type making stronger passwords. User can later save it in a passowrds.txt file if they want to access them later.</p>
 <h2></h2>
 <p><strong>Concepts used :</strong> OOP, 2D arrays, String manipulation</p>
 <p><strong>Modules :</strong> OS, Random, SYS, String_Utils</p>
