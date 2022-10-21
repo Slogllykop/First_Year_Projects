@@ -2,3 +2,4 @@ __pycache__
 env
 *.spec
 build
+Advanced_Password_Generator/dist/passwords.txt
